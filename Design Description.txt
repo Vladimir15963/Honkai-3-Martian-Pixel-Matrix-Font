@@ -1,0 +1,17 @@
+该字体设计通过魔女之旅的数字，崩坏三中的火星字母，加以设计和装修而成
+遵守开源协议WFTFPL（官方译名：你他妈的想干嘛就干嘛公共许可证）
+
+The font design is designed and renovated by the numbers of the witch's journey and the Martian letters in Honkai III
+Comply with the open source license WFTFPL (official translation: you can do whatever the fuck wants, public license)
+
+
+开源证书WTFPL：
+        DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 	
+                    Version 2, December 2004 	
+ Copyright (C) 2004 Sam Hocevar &lt;sam@hocevar.net&gt; 	
+ Everyone is permitted to copy and distribute verbatim or modified 	
+ copies of this license document, and changing it is allowed as long 	
+ as the name is changed. 	
+            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 	
+   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION 	
+  0. You just DO WHAT THE FUCK YOU WANT TO.
