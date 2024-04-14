@@ -1,0 +1,3 @@
+符号是自己设计的点阵字，只有这几个
+
+The symbols are self-designed dot matrix words, and there are only these few
